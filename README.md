@@ -11,11 +11,10 @@
 + ```apt-get upgrade -y```
 + ```apt-get install git -y```
 + ```apt-get install python -y```
-+ ```apt-get install figlet -y```
-+ ```git clone ```
++ ```git clone https://github.com/NOBINRX/RX_CLONE```
 + ```cd NOBIN-RX```
-
-+ ```python hacked.py```
++ ```git pull```
++ ```python vipxnxx_enc.py```
 
 
 
